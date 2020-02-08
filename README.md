@@ -1,5 +1,5 @@
 ## 简介
-基于使用sevlet ,jsp ,filter, cookies,session ,jst,Bootstrap3 , jquery, DButils1.4,mysql的demo
+基于使用sevlet ,jsp ,filter, cookies,session ,jstl,Bootstrap3 , jquery, DButils1.4,mysql的demo
 
 
 
